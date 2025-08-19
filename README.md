@@ -5,13 +5,12 @@
 The code published in this repository is for informational purposes only.
 This is not the complete bot code, but only the main modules and functions that demonstrate:
 
-🔐 Security of seed phrases and private data storage (encryption, database management).
-💸 How to work with USDT and BNB transactions on the BSC blockchain.
-⚙️ Error handling logic and transparency of user interaction.
+-   🔐 Security of seed phrases and private data storage (encryption, database management).
+-   💸 How to work with USDT and BNB transactions on the BSC blockchain.
+-   ⚙️ Error handling logic and transparency of user interaction.
 
 This way, you can be sure that:
-
-user data is not transferred to third parties;
+-   user data is not transferred to third parties;
 
 
 🤖 **BitnestRus Bot** is a Telegram bot for working with crypto wallets
