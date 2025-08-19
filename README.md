@@ -84,3 +84,25 @@ node bot.js
 
 -   [Privacy Policy (RU)](./PRIVACY.md)\
 -   [Privacy Policy (EN)](./PRIVACY_EN.md)
+
+
+ℹ️ Important
+
+The code published in this repository is for informational purposes only.
+This is not the complete bot code, but only the main modules and functions that demonstrate:
+
+🔐 Security of seed phrases and private data storage (encryption, database management).
+
+💸 How to work with USDT and BNB transactions on the BSC blockchain.
+
+⚙️ Error handling logic and transparency of user interaction.
+
+This way, you can be sure that:
+
+user data is not transferred to third parties;
+
+private keys are not stored in plain text;
+
+all transactions are performed securely and transparently.
+
+👉 The full version of the bot, including closed modules, tokens, and private keys, is not published for security reasons.
